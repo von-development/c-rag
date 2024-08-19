@@ -1,1 +1,1 @@
-# langgaph-course
+# C-RAG LESSONS
